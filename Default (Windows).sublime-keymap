@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+shift+d"], "command": "insert_date_time" },
+  { "keys": ["ctrl+option+n"], "command": "new_note" }
+]

@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+# ${1:Title}
+
+${2:datetime}
+
+Project: ${3:Project Name}
+
+## Who
+
+${4:People Involved}
+
+## Notes
+
+$0
+]]>
+  </content>
+</snippet>

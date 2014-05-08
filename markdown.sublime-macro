@@ -1,0 +1,17 @@
+[
+	{
+		"args":
+		{
+			"name": "Packages/Notes/NewNote.sublime-snippet"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args": null,
+		"command": "next_field"
+	},
+	{
+		"args": null,
+		"command": "insert_date_time"
+	}
+]

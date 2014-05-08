@@ -1,0 +1,4 @@
+{
+    // Refer to the Python datetime strftime method for settings
+    "datetime_format": "%a, %b %d, %Y, %I:%M %p"
+}
